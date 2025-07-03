@@ -1,6 +1,5 @@
-# AI Chatbot for IT Support on AWS 
-# ( NOTE : This site will be decommissioned as backend AWS services are removed )
-
+# AI Chatbot for IT Support 
+## ( NOTE : This site will be decommissioned as backend AWS services are removed )
 ## Overview
 This project delivers an AI-powered IT Support Chatbot designed as a first-line assistant for common technical queries. It provides instant, automated solutions and seamlessly escalates complex or unrecognized issues to human agents via email.
 
