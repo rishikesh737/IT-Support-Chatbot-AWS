@@ -30,6 +30,8 @@ This project delivers an AI-powered IT Support Chatbot designed as a first-line 
 ### 5. Security
 * **AWS IAM:** Identity and Access Management roles and policies were configured to ensure that Lambda functions had only the necessary permissions to interact with DynamoDB, SES, and Lex.
 
+⚠️ Important Note: Site Decommissioning
+Please be aware that this deployed application is for demonstration and portfolio purposes only. The associated AWS backend services are subject to deletion, and therefore, the live site will be decommissioned and may cease to be functional at any time.
 
 ### Images
 
