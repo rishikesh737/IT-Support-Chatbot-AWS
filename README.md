@@ -40,3 +40,9 @@ Please be aware that this deployed application is for demonstration and portfoli
 ![Image](https://github.com/user-attachments/assets/ca2d4f50-edec-4a3a-bae3-ae9a3cc9d18e)
 ![Image](https://github.com/user-attachments/assets/84f310ea-20b6-4974-bc07-e71a45201cb2)
 ![Image](https://github.com/user-attachments/assets/738476b0-6df8-4ef1-b687-da6a3d06019c)
+
+
+
+##  Working 
+Linkedin Post :
+[Check out my post on Linkedin ](https://www.linkedin.com/posts/rishikesh-pednekar-3184091b6_aws-amazonlex-serverless-activity-7346815262043574272-lukF?utm_source=share&utm_medium=member_desktop&rcm=ACoAADJADoQBeyCNvqjBwPaVPERgqjqyWRwWgN4)
